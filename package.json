@@ -1,0 +1,11 @@
+{
+  "name": "@h3lltronik/test-nest-auth-lib",
+  "version": "1.0.2",
+  "repository": "https://github.com/h3lltronik/test-nest-auth-lib.git",
+  "files": [
+    "dist/**/*"
+  ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
+}
